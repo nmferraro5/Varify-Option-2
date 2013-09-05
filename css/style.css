@@ -1,0 +1,120 @@
+img
+{
+	position:absolute;
+	/*display:blocked;*/
+	margin-top:-1.5625em;
+	margin-left:-0.5em;
+	margin-right:-0.5em;
+	width:64.0625em;
+	height:9.0625em;
+	/*float:left;*/
+	z-index:-1;
+}
+h1.style
+{
+	color:#DEDBD9; 
+	font-family:"Trebuchet MS", Helvetica, sans-serif;
+}
+body
+{
+	/*background-image:url("http://www.unsigneddesign.com/Seamless_background_textures/thumbs/seamlesstexture27_1200.jpg");*/
+	background-color:#DEDBD9;
+}
+.container2
+{
+	float:left;
+	text-align:center;
+	height:10em;
+	width:13em;
+	margin-top:1em;
+	margin-left:1.7em;
+	margin-right:1.7em;
+	margin-bottom:0.7em;
+	/*color:#7a2359; purple
+	color:#545900; dark green */
+	color:#C5DAEE;
+	font-size:0.9375em;
+	-moz-border-radius: 1.25em;
+	-webkit-border-radius: 1.5em;
+	/*background-color:#FADAB6; light orange 
+	background-color:#939c1b; lime green color 
+	background-color:#9ca42b; lighter green
+	/*background-color:#1E3D4E; dark blue */
+	background-color:#2C425A;
+	border-radius: 1.25em;
+	-moz-box-shadow: 0em 0em 0.875em #9ca42b;
+	-webkit-box-shadow: 0em 0em 0.875em #9ca42b;
+	box-shadow: 0em 0em 0.875em #555555;
+	padding:0.625em;
+	overflow:hidden;
+}
+a.box:link
+{
+	color:#3a87ad;
+}
+a.box:visited
+{
+	color:#2d6987;
+}
+a.box:hover
+{
+	color:#2d6987;
+}
+p:first-child
+{
+	font-weight:bold;
+	font-size: 1.1em;
+}
+ul
+{
+	float:right;
+	list-style-type:none;
+	margin-top:1.1875em;
+	margin-left:0em;
+	padding:0em;
+}
+li
+{
+	display:inline;
+	padding:0.75em;
+}
+a.sidebar
+{
+	font-size:1.25em;
+	font-family:"Trebuchet MS", Helvetica, sans-serif;
+}
+.bar
+{
+	padding:0.35em;
+	margin-top:0.5em;
+	margin-right:3em;
+}
+a.sidebar:link
+{
+	color:#1E3D4E;
+}
+a.sidebar:visited
+{
+	color:#1E3D4E;
+}
+a.sidebar:hover
+{
+	color:black;
+}
+.CHOP
+{	
+	float:left;
+	margin-top:2em;
+	margin-left:19em;
+}
+.ACMG
+{
+	float:left;
+	margin-top:2em;
+	margin-left:25em;
+}
+
+
+
+
+
